@@ -1,0 +1,37 @@
+body {
+  background-color: #92a5a5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  color: rgb(2, 2, 2);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.login{
+  border-style: solid;
+  border-color: #BBF6F6;
+  padding: 20px;
+  background-color: #24ADAD;
+  margin-top: 20px;
+  margin-left: 590px;
+  margin-right: 550px;
+  margin-top: 270px;
+}
+
+.listar{
+  border-style: solid;
+  border-color: #BBF6F6;
+  padding: 20px;
+  background-color: #24ADAD;
+  margin-top: 70px;
+  margin-left: 600px;
+  margin-right: 550px;
+  padding-bottom: 300px;
+}
